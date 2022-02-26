@@ -31,6 +31,10 @@
 }
 ```
 
+## <img src = "https://cdn.discordapp.com/emojis/867093601962950666.png?v=1" width = "18"> Report Bugs
+
+You can report bugs or issues by opening a issue in this repository.
+
 ## **NOTE:**
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
