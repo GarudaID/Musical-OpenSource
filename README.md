@@ -1,3 +1,9 @@
+## Musical Open Source Code by Kaixin
+
+<p align="center">
+ <img src="https://github.com/GarudaID/Musical-OpenSource/blob/main/images/musical11.PNG">
+ </p>
+
 ## 🖥️ Hosting
 
 > We host this bot. KaiXin *will be* online 24/7. [Invite KaiXin here!](#invite)<br>
