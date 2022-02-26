@@ -1,5 +1,5 @@
-## Musical Open Source Code by Kaixin
-![Github Stars](https://img.shields.io/github/stars/GaurdaID/Musical-OpenSource?style=for-the-badge&logo=appveyor)
+## Musical Open Source Code by Kaixin [![Stars](https://img.shields.io/github/stars/GarudaID/Musical-OpenSource)](https://github.com/GarudaID/Musical-OpenSource) 
+
 <p align="center">
  <img src="https://github.com/GarudaID/Musical-OpenSource/blob/main/images/musical11.PNG">
  </p>
